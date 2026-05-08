@@ -10,14 +10,10 @@ Several grayscale techniques are implemented, ranging from simple methods to mor
 
 ## Dataset
 
-We use the **102 Category Flower Dataset**.
+We use the 2 different dataset:
 
-Dataset structure:
-- `train` and `valid`: images organized into class folders
-- `test`: images without class labels
-
----
-
+- GTSRB: contains 43 traffic sign categories with 39,209 training and 12,630 official test images at varying scales.
+- FMD: contains 1,000 images across 10 material categories (fabric, foliage, glass, leather, metal, paper, plastic, stone, water, wood).
 
 ---
 
